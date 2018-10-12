@@ -1,7 +1,7 @@
 {
   "main.css": "/react-simple/static/css/main.47cf3763.chunk.css",
-  "main.js": "/react-simple/static/js/main.bd880f3a.chunk.js",
-  "main.js.map": "/react-simple/static/js/main.bd880f3a.chunk.js.map",
+  "main.js": "/react-simple/static/js/main.01b9b96a.chunk.js",
+  "main.js.map": "/react-simple/static/js/main.01b9b96a.chunk.js.map",
   "static/css/1.2e453996.chunk.css": "/react-simple/static/css/1.2e453996.chunk.css",
   "static/js/1.b20c3fdc.chunk.js": "/react-simple/static/js/1.b20c3fdc.chunk.js",
   "static/js/1.b20c3fdc.chunk.js.map": "/react-simple/static/js/1.b20c3fdc.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.2e453996.chunk.css.map": "/react-simple/static/css/1.2e453996.chunk.css.map",
   "static/css/main.47cf3763.chunk.css.map": "/react-simple/static/css/main.47cf3763.chunk.css.map",
   "index.html": "/react-simple/index.html",
-  "precache-manifest.e7f39b863549b79652a507043e29f90f.js": "/react-simple/precache-manifest.e7f39b863549b79652a507043e29f90f.js",
+  "precache-manifest.c320ca27e69be613d5e26f79df13a484.js": "/react-simple/precache-manifest.c320ca27e69be613d5e26f79df13a484.js",
   "service-worker.js": "/react-simple/service-worker.js"
 }
