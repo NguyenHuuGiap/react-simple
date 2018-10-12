@@ -1,14 +1,15 @@
 {
-  "main.css": "/react-simple/static/css/main.c6d75841.chunk.css",
-  "main.js": "/react-simple/static/js/main.f0e5fe13.chunk.js",
-  "main.js.map": "/react-simple/static/js/main.f0e5fe13.chunk.js.map",
-  "static/js/1.6105a37c.chunk.js": "/react-simple/static/js/1.6105a37c.chunk.js",
-  "static/js/1.6105a37c.chunk.js.map": "/react-simple/static/js/1.6105a37c.chunk.js.map",
+  "main.css": "/react-simple/static/css/main.47cf3763.chunk.css",
+  "main.js": "/react-simple/static/js/main.3bf3d870.chunk.js",
+  "main.js.map": "/react-simple/static/js/main.3bf3d870.chunk.js.map",
+  "static/css/1.2e453996.chunk.css": "/react-simple/static/css/1.2e453996.chunk.css",
+  "static/js/1.b20c3fdc.chunk.js": "/react-simple/static/js/1.b20c3fdc.chunk.js",
+  "static/js/1.b20c3fdc.chunk.js.map": "/react-simple/static/js/1.b20c3fdc.chunk.js.map",
   "runtime~main.js": "/react-simple/static/js/runtime~main.5fd52b96.js",
   "runtime~main.js.map": "/react-simple/static/js/runtime~main.5fd52b96.js.map",
-  "static/media/logo.svg": "/react-simple/static/media/logo.5d5d9eef.svg",
-  "static/css/main.c6d75841.chunk.css.map": "/react-simple/static/css/main.c6d75841.chunk.css.map",
+  "static/css/main.47cf3763.chunk.css.map": "/react-simple/static/css/main.47cf3763.chunk.css.map",
+  "static/css/1.2e453996.chunk.css.map": "/react-simple/static/css/1.2e453996.chunk.css.map",
   "index.html": "/react-simple/index.html",
-  "precache-manifest.8e86adba6ff6f4b112556d5a75f11ddf.js": "/react-simple/precache-manifest.8e86adba6ff6f4b112556d5a75f11ddf.js",
+  "precache-manifest.166d4c5fe756a92dc8ed8fa59a2cd8c3.js": "/react-simple/precache-manifest.166d4c5fe756a92dc8ed8fa59a2cd8c3.js",
   "service-worker.js": "/react-simple/service-worker.js"
 }
